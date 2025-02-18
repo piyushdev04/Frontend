@@ -1,1 +1,1 @@
-practicing frontend fundamentals by building small components
+**practicing frontend fundamentals by building small components**
