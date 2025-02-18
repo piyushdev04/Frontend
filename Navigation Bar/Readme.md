@@ -1,3 +1,3 @@
 ![alt text](image.png)
-<Responsive Design>
+Responsive Design
 ![alt text](image-1.png)
